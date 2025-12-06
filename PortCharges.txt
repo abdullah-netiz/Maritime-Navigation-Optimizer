@@ -1,0 +1,15 @@
+Chittagong 741
+Karachi 988
+Dublin 1140
+Marseille 425
+Jeddah 1143
+Colombo 1354
+Sydney 1227
+Melbourne 544
+Montreal 1445
+Doha 751
+Manila 1295
+Alexandria 225
+Istanbul 252
+Singapore 946
+Busan 1108
