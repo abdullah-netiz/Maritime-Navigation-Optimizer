@@ -5,6 +5,7 @@ Global route-planning playground built with C++17 and SFML that lets you choreog
 ![OceanRoute Navigator UI](docs/Screenshot1.png)
 ![OceanRoute Navigator UI](docs/Screenshot2.png)
 ![OceanRoute Navigator UI](docs/Screenshot3.png)
+![OceanRoute Navigator UI](docs/Screenshot4.png)
 
 ## Highlights
 - **Dual planning modes** – pick Cheapest (cost-weighted) or Fastest (time-weighted) searches running on a custom Dijkstra/A* hybrid with bespoke queues, stacks, and heaps.
